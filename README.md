@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishant Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **ClassAutomation**
+- 🔭 I’m currently working on **noshh_web**
 
-- 🌱 I’m currently learning **Flutter, Android Developement**
+- 🌱 I’m currently learning **Web Developement, Docker**
 
-- 👯 I’m looking to collaborate on **ClassAutomation**
+- 👯 I’m looking to collaborate on **noshh_web**
 
 - 📫 How to reach me **nishantjha360@gmail.com**
 
