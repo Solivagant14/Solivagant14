@@ -15,15 +15,15 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 
 <p align="left"> <a href="https://twitter.com/slvgnt14" target="blank"><img src="https://img.shields.io/twitter/follow/slvgnt14?logo=twitter&style=for-the-badge" alt="slvgnt14" /></a> </p>
 
-- 📫 How to reach me **inishant.jha.360@gmail.com**
+- 📫 How to reach me **nishant.jha.360@gmail.com**
 <br><br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/slvgnt14" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="slvgnt14" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nishantjha14" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_nishant.jha" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nishantjha14" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Nishant Jha" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_nishant.jha" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_nishant.jha" height="50" width="50" /></a>
 </p>
 
 <hr>
