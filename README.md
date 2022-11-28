@@ -7,7 +7,6 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Solivagant14&label=Profile%20views&color=0e75b6&style=flat" alt="Solivagant14" /> </p>
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
 <img align= "left" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=Solivagant14&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
 <img align= "right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solivagant14&count_private=true&theme=react&show_icons=true&hide_border=true" />
 </p>
