@@ -8,8 +8,7 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Solivagant14&label=Profile%20views&color=0e75b6&style=flat" alt="Solivagant14" /> </p>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Solivagant14&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Solivagant14&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solivagant14&count_private=true&theme=radical&show_icons=true" />
 
