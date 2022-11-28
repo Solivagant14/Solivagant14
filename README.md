@@ -8,9 +8,9 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Solivagant14&label=Profile%20views&color=0e75b6&style=flat" alt="Solivagant14" /> </p>
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Solivagant14&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=Solivagant14&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solivagant14&count_private=true&theme=black-ice&show_icons=true" />
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solivagant14&count_private=true&theme=radical&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/slvgnt14" target="blank"><img src="https://img.shields.io/twitter/follow/slvgnt14?logo=twitter&style=for-the-badge" alt="slvgnt14" /></a> </p>
 
