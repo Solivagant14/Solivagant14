@@ -11,8 +11,6 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 <img align= "right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solivagant14&count_private=true&theme=react&show_icons=true&hide_border=true" />
 </p>
 
-[//]: # "Comment" <p align="left"> <a href="https://twitter.com/slvgnt14" target="blank"><img src="https://img.shields.io/twitter/follow/slvgnt14?logo=twitter&style=for-the-badge" alt="slvgnt14" /></a> </p>
-
 - 📫 How to reach me **nishant.jha.360@gmail.com**
 <br><br>
 <hr>
