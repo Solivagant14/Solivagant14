@@ -25,11 +25,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=solivagant14&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
