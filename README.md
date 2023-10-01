@@ -21,6 +21,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-contributor-stats.vercel.app/api?username=solivagant14&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
+###  ⭐️ My Badges
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![An image of @solivagant14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/solivagant14)](https://holopin.io/@solivagant14)
+
 ### ✍️ Random Dev Quote
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
