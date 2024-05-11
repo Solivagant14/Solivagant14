@@ -2,7 +2,7 @@
 ![Profile Banner](https://github.com/Solivagant14/Solivagant14/raw/main/header.png)
 
 # 💫 About Me:
-🔭 I’m currently working on generate-password<br>🤝 I’m looking for help with Front-End Dev<br>🌱 I’m currently learning Back-End<br>💬 Ask me about ML & IOT<br>
+🔭 I’m currently working on AQI-Forecast<br>🤝 I’m looking for help with Front-End Dev<br>🌱 I’m currently learning Back-End<br>💬 Ask me about ML & IOT<br>
 
 
 ## 🌐 Socials:
