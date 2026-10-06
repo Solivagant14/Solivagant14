@@ -4,7 +4,9 @@
   <img alt="Nishant Jha — Software engineer" src="assets/banner-dark.svg" width="100%">
 </picture>
 
+
 I build full-stack web apps and the systems behind them. Lately that means Java and Spring Boot on the back end, Vue.js on the front, and AWS with Terraform for infrastructure. When an idea needs proving fast, I reach for Python and spin up a GenAI proof of concept.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
