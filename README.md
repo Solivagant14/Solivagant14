@@ -9,7 +9,7 @@ I build full-stack web apps and the systems behind them. Lately that means Java 
 <p><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg">
-  <img alt="Currently: full-stack apps with Spring Boot and Vue.js, AI agents, AWS and Terraform, videography" src="assets/now-dark.svg" width="100%">
+  <img alt="Currently: building PrepUp, plus full-stack apps with Spring Boot and Vue.js, AI agents, AWS and Terraform, videography" src="assets/now-dark.svg" width="100%">
 </picture></p>
 
 <p><picture>
